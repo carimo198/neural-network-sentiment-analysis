@@ -1,0 +1,2 @@
+# neural-network-sentiment-analysis
+This repository is for my uni project for Nueral Networks, Deep Learning course. For this project we were required to write a Pytorch program that learns to read business reviews in text format and predict a rating (positive or negative) associated with each review, as well as a business category (0=Restaurants, 1=Shopping, 2=Home Services, 3=Health &amp; Medical, 4=Automotive). 
