@@ -1,1 +1,4 @@
+layout: page
+title: "Writing Neural Networks: Language processing with PyTorch"
+permalink: https://carimo198.github.io/neural-network-sentiment-analysis/
 theme: jekyll-theme-slate
